@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Talk about 'Reduced Adaptive GDSW Coarse Spaces for the Two-Level Overlapping Schwarz Method' at the DD25 conference, St. John's, Canada"
+date: 2018-06-24 15:30:00 -0330
+categories: frosch talk
+---
+

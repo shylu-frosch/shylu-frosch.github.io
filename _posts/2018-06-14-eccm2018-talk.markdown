@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Talk about 'FROSch - A Parallel Implementation of the GDSW Domain Decomposition Preconditioner in Trilinos' at the ECCM - ECFD 2018 conference, Glasgow, UK"
+date: 2018-06-14 10:00:00 +0200
+categories: frosch talk
+---

@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Talk about 'FROSch - A Parallel Implementation of the GDSW Domain Decomposition Preconditioner in Trilinos' at the DD25 conference, St. John's, Canada"
+date: 2018-06-25 11:00:00 -0330
+categories: frosch talk
+---
