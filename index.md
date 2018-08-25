@@ -1,11 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: FROSch (Fast and Robust Overlapping Schwarz)
 list_title: News
 layout: home
+exclude: true
 ---
-
-## *FROSch* (Fast and Robust Overlapping Schwarz)
 
 <div style="float: right; width: 40%;">
 <img alt="FROSch Logo" src="./images/FROSch_logo.png" width="100%">
@@ -20,6 +18,7 @@ For more information, see [About](/about) and the ShyLU user guide.
 <!--<br>-->
 
 To cite *FROSch*, please refer to:
-{% bibtex _plugins/style.bst publications/frosch.bib %}
+
+{% include frosch.html %}
 
 More publications related to *FROSch* are listed [here](/publications).

@@ -71,7 +71,7 @@ $$
 $$
 
 #### References
-{% bibtex _plugins/style.bst references.bib %}
+{% include references.html %}
 
 ---
 

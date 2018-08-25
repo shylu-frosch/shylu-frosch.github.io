@@ -4,10 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 # Published
-{% bibtex _plugins/style.bst published.bib %}
+{% include published.html %}
 # Accepted
-{% bibtex _plugins/style.bst accepted.bib %}
+{% include accepted.html %}
 # Submitted
-{% bibtex _plugins/style.bst submitted.bib %}
+{% include submitted.html %}
 # In Preparation
-{% bibtex _plugins/style.bst in-preparation.bib %}
+{% include in-preparation.html %}
