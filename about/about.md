@@ -148,7 +148,7 @@ $$
 
 ---
 
-*FROSch* now supports the Kokkos programming model though the use of Tpetra matrices. The *FROSch* library can therefore profit from the efforts of the Kokkos package to obtain performance portability by template meta- programming, also on modern hybrid architectures with accelerators.
+
 
 ---
 
