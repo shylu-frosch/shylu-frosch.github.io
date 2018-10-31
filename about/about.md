@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 <div style="float: right; width: 40%;">
-<img alt="edge basis function" src="/images/metis-edge-basisfunction.png" width="100%">
+<img alt="edge basis function" src="/images/metis-vertex-basis-function.png" width="100%">
+<img alt="edge basis function" src="/images/metis-edge-basis-function.png" width="100%">
 </div>
 <div style="float: left; width: 60%;">
 </div>
@@ -27,8 +28,6 @@ typically arising from the discretization of partial differential equations.
 <details>
 <summary> <b>Algebraic</b> construction of two-level Schwarz preconditioners </summary>
 <div markdown="1">
-
----
 
 **One-level additive Schwarz** preconditioners with exact solvers are of the form 
 
@@ -67,13 +66,11 @@ The main ingredients are a partition of unity on the interface of the non-overla
 For example, the two-level Schwarz preconditioner with GDSW coarse space is scalable with a condition number bound independent of the number of subdomains:
 
 $$
-\kappa \left(M_{\rm GDSW}^{-1} K \right) \leq \ C \left(1+\frac{H}{\delta}\right) \left( 1 + \log\left(\frac{H}{h}\right)\right)^{\color{red} 2}
+\kappa \left(M_{\rm GDSW}^{-1} K \right) \leq \ C \left(1+\frac{H}{\delta}\right) \left( 1 + \log\left(\frac{H}{h}\right)\right)^{2}
 $$
 
 #### References
 {% include references.html %}
-
----
 
 </div>
 </details>
@@ -83,8 +80,6 @@ $$
 <details> 
 <summary> <b>Additive</b> and <b>multiplicative</b> combination of Schwarz preconditioners </summary>
 <div markdown="1">
-
----
 
 Schwarz preconditioners can be easily combined using the concept of Schwarz operators. In particular, Schwarz operators are projections of the form
 
@@ -120,7 +115,8 @@ P_{\rm hy-1} = I - \left( I - P_0 \right) \left( I - \sum\limits_{i=0}^{N} P_i \
 P_{\rm hy-2} = \alpha P_0 + I - (I - P_N) \cdots (I - P_1)
 $$
 
----
+#### References
+{% include references.html %}
 
 </div>
 </details>
@@ -131,11 +127,9 @@ $$
 <summary> Implementation based on <b>Xpetra</b> </summary>
 <div markdown="1">
 
----
+<a href="https://trilinos.github.io/xpetra.html" target="_blank">Xpetra</a> enables the use of both Trilinos linear algebra frameworks,  <a href="https://trilinos.github.io/epetra.html" target="_blank">Epetra</a> and <a href="https://trilinos.github.io/epetra.html" target="_blank">Tpetra</a>.
 
-*FROSch* now supports the Kokkos programming model though the use of Tpetra matrices. The *FROSch* library can therefore profit from the efforts of the Kokkos package to obtain performance portability by template meta- programming, also on modern hybrid architectures with accelerators.
-
----
+*FROSch* now supports the Kokkos programming model though the use of <a href="https://trilinos.github.io/epetra.html" target="_blank">Tpetra</a>. The *FROSch* library can therefore profit from the efforts of the Kokkos package to obtain performance portability by template meta-programming, also on modern hybrid architectures with accelerators.
 
 </div>
 </details>
@@ -146,11 +140,20 @@ $$
 <summary> <b>Simple</b> user interface </summary>
 <div markdown="1">
 
----
+*FROSch* provides a simple user interface. Therefore, the standard GDSW preconditioner can be constructed within a few lines from the fully assembled parallel distributed matrix `K` and a list of parameters `ParameterList`: 
 
+```cpp
+typedef KokkosClassic::DefaultNode::DefaultNodeType Node;
+typedef FROSch::GDSWPreconditioner<double,int,long long,Node> FROSchGDSW;
 
+Teuchos::RCP<FROSchGDSW> Prec(new FROSchGDSW(K,ParameterList);
 
----
+Prec->initialize(Dimension,OL,RepeatedMap);
+
+Prec->compute();
+```
+
+In addition to that, *FROSch* provides a <a href="https://trilinos.github.io/stratimikos.html" target="_blank">Stratimikos</a> interface and can therefore be called through the   <a href="https://trilinos.github.io/thyra.html" target="_blank">Thyra</a> framework.
 
 </div>
 </details>
