@@ -3,6 +3,13 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+To cite *FROSch*, please refer to:
+
+{% include frosch.html %}
+
+Full list of *FROSch*-related pulications:
+
+
 # Published
 {% include published.html %}
 # Accepted
