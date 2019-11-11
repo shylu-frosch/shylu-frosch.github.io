@@ -7,7 +7,7 @@ To cite *FROSch*, please refer to:
 
 {% include frosch.html %}
 
-Full list of *FROSch*-related pulications:
+Full list of *FROSch*-related publications:
 
 
 # Published
