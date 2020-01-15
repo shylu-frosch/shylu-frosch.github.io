@@ -20,3 +20,15 @@ permalink: /projects/
 </ul>
 
 <center> <img alt="edge basis function" src="/images/fe2ti_nakajima.png" width="75%"> </center>
+
+<ul>
+<li>
+<a href="https://fastmath-scidac.llnl.gov" target="_blank">FASTMath</a>
+</li>
+</ul>
+
+<ul>
+<li>
+<a href="https://climatemodeling.science.energy.gov/research-highlights/mpas-albany-land-ice-mali-variable-resolution-ice-sheet-model-earth-system" target="_blank">MALI</a>
+</li>
+</ul>
