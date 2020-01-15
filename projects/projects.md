@@ -23,12 +23,15 @@ permalink: /projects/
 
 <ul>
 <li>
-<a href="https://fastmath-scidac.llnl.gov" target="_blank">FASTMath</a>
+<a href="https://fastmath-scidac.llnl.gov" target="_blank">FASTMath - Applied mathematics algorithms, tools, and software for 
+HPC applications</a>
 </li>
 </ul>
 
 <ul>
 <li>
-<a href="https://climatemodeling.science.energy.gov/research-highlights/mpas-albany-land-ice-mali-variable-resolution-ice-sheet-model-earth-system" target="_blank">MALI</a>
+<a href="https://climatemodeling.science.energy.gov/research-highlights/mpas-albany-land-ice-mali-variable-resolution-ice-sheet-model-earth-system" target="_blank">MPAS-Albany Land Ice (MALI): A Variable-Resolution Ice Sheet Model for Earth System Modeling Using Voronoi Grids</a>
 </li>
 </ul>
+
+<center> <img alt="edge basis function" src="/images/velocity-antarctica.png" width="50%"> </center>
