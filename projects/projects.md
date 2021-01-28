@@ -7,7 +7,7 @@ permalink: /projects/
 
 <ul>
 <li>
-<a href="http://www.numerik.uni-koeln.de/14080.html" target="_blank">Fluid-Structure Interaction of Arterial Walls and Blood Flow</a> 
+<a href="http://www.numerik.uni-koeln.de/14080.html" target="_blank">Fluid-Structure Interaction of Arterial Walls and Blood Flow</a>
 </li>
 </ul>
 
@@ -15,15 +15,7 @@ permalink: /projects/
 
 <ul>
 <li>
-<a href="http://www.numerik.uni-koeln.de/14079.html" target="_blank">EXASTEEL - Bridging Scales for Multiphase Steels</a>
-</li>
-</ul>
-
-<center> <img alt="edge basis function" src="/images/fe2ti_nakajima.png" width="75%"> </center>
-
-<ul>
-<li>
-<a href="https://fastmath-scidac.llnl.gov" target="_blank">FASTMath - Applied mathematics algorithms, tools, and software for 
+<a href="https://fastmath-scidac.llnl.gov" target="_blank">FASTMath - Applied mathematics algorithms, tools, and software for
 HPC applications</a>
 </li>
 </ul>
@@ -35,3 +27,17 @@ HPC applications</a>
 </ul>
 
 <center> <img alt="edge basis function" src="/images/velocity-antarctica.png" width="50%"> </center>
+
+<ul>
+<li>
+<a href="https://www.uni-regensburg.de/mathematik/mathematik-dolzmann/spp-2256/" target="_blank">SPP 2256 Variational Methods fpr Predicting Comples Phenomena in Engineering Structures and Materials</a>
+</li>
+</ul>
+
+<ul>
+<li>
+<a href="http://www.numerik.uni-koeln.de/14079.html" target="_blank">EXASTEEL - Bridging Scales for Multiphase Steels</a>
+</li>
+</ul>
+
+<center> <img alt="edge basis function" src="/images/fe2ti_nakajima.png" width="75%"> </center>
