@@ -17,9 +17,22 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
+          <!-- <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+          </a> -->
+          {% if post.inline %}
+            {% if post.inline_url %}
+              <a class="post-link" href="{{ post.inline_url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            {% else %}
+              {{ post.title | escape }}
+            {% endif %}
+          {% else %}
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          {% endif %}
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
@@ -30,7 +43,7 @@ layout: default
 
     <p>Show <a href="/news/">news archive.</a></p>
     <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-    
+
   {%- endif -%}
 
 </div>
