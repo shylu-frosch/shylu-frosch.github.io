@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Talk 'A Three-Level Extension for the Fast and Robust Overlapping Schwarz (FROSch) Preconditioner' by Friederike Röver at the DD26 conference, Hongkong, China (online)"
+date: 2020-12-09 16:30:00 +0800
+categories: frosch talk
+inline: true
+inline_url: /talks/
+---

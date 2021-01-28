@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Talk 'A Three-Level Extension of the GDSW Overlapping Schwarz Preconditioner' at the DD25 conference, St. John's, Canada"
+title: "Talk 'A Three-Level Extension of the GDSW Overlapping Schwarz Preconditioner' by Alexander Heinlein at the DD25 conference, St. John's, Canada"
 date: 2018-06-24 16:30:00 -0330
 categories: frosch talk
 inline: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Talk 'The FROSch Package in Cardiovascular Simulations' at International Symposium on Modeling and Simulation of the Cardiovascular System, Lukasklause Magdeburg, Magdeburg, Germany"
+title: "Talk 'The FROSch Package in Cardiovascular Simulations' by Alexander Heinlein at International Symposium on Modeling and Simulation of the Cardiovascular System, Lukasklause Magdeburg, Magdeburg, Germany"
 date: 2018-10-22 16:50:00 +0200
 categories: frosch talk
 inline: true

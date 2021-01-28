@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Talk 'Multiscale Discretizations and Coarse Spaces Based on ACMS' at the DD25 conference, St. John's, Canada"
+title: "Talk 'Multiscale Discretizations and Coarse Spaces Based on ACMS' by Alexander Heinlein at the DD25 conference, St. John's, Canada"
 date: 2018-06-23 11:30:00 -0330
 categories: frosch talk
 inline: true
