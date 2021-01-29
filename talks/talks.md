@@ -3,10 +3,14 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+# 2021
+
++ **Friederike Röver**. *A Three-Level Extension for the Fast and Robust Overlapping Schwarz (FROSch) Preconditioners*. 14th World Congress on Computational Mechanics (WCCM) ECCOMAS Congress 2020, Paris, France, January 11-15, 2021
 
 # 2020
 
 + **Alexander Heinlein**. *FROSch Preconditioners for Land Ice Simulations of Greenland and Antarctica*. 26th International Conference on Domain Decomposition Methods, Hong Kong, China, December, 2020
++ **Friederike Röver**. *A Three-Level Extension for the Fast and Robust Overlapping Schwarz (FROSch) Preconditioner*. 26th International Conference on Domain Decomposition Methods, Hong Kong, China, December, 2020
 
 # 2019
 
@@ -16,6 +20,7 @@ permalink: /talks/
 + **Alexander Heinlein**. *The FROSch (Fast and Robust Overlapping Schwarz) Package in Cardiovascular Simulations*. MAFELAP 2019, Brunel University London, England, June 19, 2019
 + **Alexander Heinlein**. *Fast and Robust Overlapping Schwarz: FROSch*. European Trilinos User Group Meeting, ETH Zürich, Switzerland, June 2019
 + **Alexander Heinlein**. *FROSch – A Parallel Implementation of the GDSW Domain Decomposition Preconditioner in Trilinos*. 90th GAMM Annual Meeting, Vienna, Austria, July 18-22, 2019
++ **Friederike Röver**. *A Three-Level GDSW Overlapping Schwarz Preconditioner*. 90th GAMM Annual Meeting, Vienna, Austria, July 18-22, 2019
 
 # 2018
 
