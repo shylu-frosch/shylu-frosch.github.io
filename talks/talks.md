@@ -11,6 +11,7 @@ permalink: /talks/
 # 2019
 
 + **Alexander Heinlein**. *FROSch – A framework for parallel Schwarz preconditioners in Trilinos*. ENUMATH Conference 2019, Egmond aan Zee, The Netherlands, October 2, 2019
++ **Friederike Röver**. *A three-Level extension for the Fast and Robust Overlapping Schwarz (FROSch) preconditioner*. 32nd Chemnitz FE Symposium, Mülheim an der Ruhr, Germany, September 9-11, 2019
 + **Alexander Heinlein**. *FROSch – A framework for parallel Schwarz preconditioners in Trilinos*. Seminar, Sandia National Laboratories, USA, October 2019
 + **Alexander Heinlein**. *The FROSch (Fast and Robust Overlapping Schwarz) Package in Cardiovascular Simulations*. MAFELAP 2019, Brunel University London, England, June 19, 2019
 + **Alexander Heinlein**. *Fast and Robust Overlapping Schwarz: FROSch*. European Trilinos User Group Meeting, ETH Zürich, Switzerland, June 2019
