@@ -10,6 +10,7 @@ permalink: /talks/
 # 2020
 
 + **Alexander Heinlein**. *FROSch Preconditioners for Land Ice Simulations of Greenland and Antarctica*. 26th International Conference on Domain Decomposition Methods, Hong Kong, China, December, 2020
++ **Christian Hochmuth**. *Comparison of Monolithic and Block Preconditioners with GDSW-type Coarse Spaces for Incompressible Fluid Flow Problems*. 26th International Conference on Domain Decomposition Methods, Hong Kong, China, December, 2020
 + **Friederike Röver**. *A Three-Level Extension for the Fast and Robust Overlapping Schwarz (FROSch) Preconditioner*. 26th International Conference on Domain Decomposition Methods, Hong Kong, China, December, 2020
 
 # 2019
@@ -36,6 +37,8 @@ permalink: /talks/
 + **Alexander Heinlein**. *FROSch – A Parallel Implementation of the GDSW Domain Decomposition Preconditioner in Trilinos*. Seminar, Sandia National Laboratories, USA, October 2017
 + **Alexander Heinlein**. *Domain-Decomposition-Based Fluid-Structure Interaction Methods Using Nonlinear Anisotropic Arterial Wall Models*. PASC17 Conference, Lugano, Switzerland, Juni 26-28, 2017
 + **Alexander Heinlein**. *Domain-Decomposition-Based Fluid-Structure Interaction Methods Using Nonlinear Anisotropic Arterial Wall Models*. 88th GAMM Annual Meeting, Weimar, Germany, March 06-10, 2017
++ **Christian Hochmuth**. *A Two-Level Overlapping Schwarz Method with Energy-Minimizing Coarse Space for Saddle Point Problems*. 88th GAMM Annual Meeting, Weimar, Germany, March 06-10, 2017
+
 
 # 2016
 
