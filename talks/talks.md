@@ -5,6 +5,7 @@ permalink: /talks/
 ---
 # 2021
 
++ **Alexander Heinlein**. *FROSch Preconditioners for Land Ice Simulations of Greenland and Antarctica*. 20th Copper Mountain Conference On Multigrid Methods (Virtual), April, 2021
 + **Friederike Röver**. *A Three-Level Extension for the Fast and Robust Overlapping Schwarz (FROSch) Preconditioners*. 14th World Congress on Computational Mechanics (WCCM) ECCOMAS Congress 2020, Paris, France, January 11-15, 2021
 
 # 2020
