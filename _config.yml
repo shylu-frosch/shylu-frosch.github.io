@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: FROSch
-email: alexander.heinlein@uni-koeln.de
+email: a.heinlein@tudelft.nl
 description: >- # this means to ignore newlines until "baseurl:"
 #FROSch (Fast and Robust Overlapping Schwarz) is a framework for parallel overlapping Schwarz preconditioners in Trilinos. It is designed to be used as an algebraic solver for discrete problems arising from continuum mechanical problems. The framework is part of the Trilinos package ShyLU and it offers a range of functions for the construction and combination of various Schwarz preconditioners.
 baseurl: "" # the subpath of your site, e.g. /blog
