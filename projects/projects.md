@@ -7,14 +7,6 @@ permalink: /projects/
 
 <ul>
 <li>
-<a href="http://www.numerik.uni-koeln.de/14080.html" target="_blank">Fluid-Structure Interaction of Arterial Walls and Blood Flow</a>
-</li>
-</ul>
-
-<center> <img alt="edge basis function" src="/images/stokes-basis-function.png" width="49%"> <img alt="edge basis function" src="/images/wss-bent-artery.png" width="49%">  </center>
-
-<ul>
-<li>
 <a href="https://fastmath-scidac.llnl.gov" target="_blank">FASTMath - Applied mathematics algorithms, tools, and software for
 HPC applications</a>
 </li>
@@ -30,9 +22,25 @@ HPC applications</a>
 
 <ul>
 <li>
-<a href="https://www.uni-regensburg.de/mathematik/mathematik-dolzmann/spp-2256/" target="_blank">SPP 2256 Variational Methods fpr Predicting Comples Phenomena in Engineering Structures and Materials</a>
+<a href="https://www.uni-regensburg.de/mathematik/mathematik-dolzmann/spp-2256/" target="_blank">DFG SPP 2311 -- Project "SPP 2256 Variational Methods fpr Predicting Comples Phenomena in Engineering Structures and Materials"</a>
 </li>
 </ul>
+
+<ul>
+<li>
+<a href="https://www.spp2311.uni-stuttgart.de/forschungsprojekte/" target="_blank">DFG SPP 2311 -- Project "Modeling and simulation of pharmaco-mechanical FSI for an enhanced treatment of cardiovascular diseases"</a>
+</li>
+</ul>
+
+## Past Projects
+
+<ul>
+<li>
+<a href="http://www.numerik.uni-koeln.de/14080.html" target="_blank">Fluid-Structure Interaction of Arterial Walls and Blood Flow</a>
+</li>
+</ul>
+
+<center> <img alt="edge basis function" src="/images/stokes-basis-function.png" width="49%"> <img alt="edge basis function" src="/images/wss-bent-artery.png" width="49%">  </center>
 
 <ul>
 <li>
