@@ -9,6 +9,7 @@ permalink: /team/
 + <a href="http://www.cs.sandia.gov/~srajama/index.html" target="_blank">Siva Rajamanickam</a>, Sandia National Laboratories, USA
 + <a href="https://tu-freiberg.de/fakult1/nmo/rheinbach" target="_blank">Oliver Rheinbach</a>, Technische Universität Bergakademie Freiberg, Germany
 + <a href="https://tu-freiberg.de/fakult1/nmo/roever" target="_blank">Friederike Röver</a>, Technische Universität Bergakademie Freiberg, Germany
++ Ichitaro Yamazaki, Sandia National Laboratories, USA
 
 # Former FROSch Developers
 + Christian Hochmuth
