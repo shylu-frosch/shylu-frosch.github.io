@@ -3,6 +3,9 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+# 2022 
++ **Friederike Röver**. *The FROSch framework applied to Chemo-Mechanics*. European Trilinos User Group (EuroTUG) (Virtual), Munich, Germany, September 12-14, 2022
++ **Friederike Röver**. *Application of FROSch - the Fast and Robust Overlapping Schwarz Preconditioner framework - to Chemo-Mechanics*. ECCOMAS Congress 2022, Oslo, Norway, June 5-9, 2022
 # 2021
 + **Alexander Heinlein**. *FROSch Preconditioners for Land Ice Simulations of Greenland and Antarctica*. 20th Copper Mountain Conference On Multigrid Methods (Virtual), April, 2021
 + **Friederike Röver**. *Three-level Fast and Robust Overlapping Schwarz (FROSch) preconditioners*. 20th Copper Mountain Conference On Multigrid Methods (Virtual), April, 2021
