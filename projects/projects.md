@@ -22,7 +22,7 @@ HPC applications</a>
 
 <ul>
 <li>
-<a href="https://www.uni-regensburg.de/mathematik/mathematik-dolzmann/spp-2256/" target="_blank">DFG SPP 2256 -- Project "Variational Methods for Predicting Complex Phenomena in Engineering Structures and Materials"</a>
+<a href="https://spp2256.ur.de/" target="_blank">DFG SPP 2256 Phase 1 Project 12 / Phase 2 Project 11 "Variational Methods for Predicting Complex Phenomena in Engineering Structures and Materials"</a>
 </li>
 </ul>
 
