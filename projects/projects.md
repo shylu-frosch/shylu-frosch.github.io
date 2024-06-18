@@ -32,6 +32,8 @@ HPC applications</a>
 </li>
 </ul>
 
+<center> <img alt="Chemomech Image" src="/images/mu_min_mech_ind_diff.png" width="50%"> </center>
+
 <ul>
 <li>
 <a href="https://www.spp2311.uni-stuttgart.de/forschungsprojekte/" target="_blank">DFG SPP 2311 -- Project "Modeling and simulation of pharmaco-mechanical FSI for an enhanced treatment of cardiovascular diseases"</a>
