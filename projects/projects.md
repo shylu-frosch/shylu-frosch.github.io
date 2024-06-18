@@ -8,7 +8,7 @@ permalink: /projects/
 <ul>
  <li>BMBF <a href="https://gauss-allianz.de/de/project/call/Richtlinie%20zur%20F%C3%B6rderung%20von%20Verbundprojekten%20auf%20dem%20Gebiet%20%E2%80%9ENeue%20Methoden%20und%20Technologien%20f%C3%BCr%20das%20Exascale-H%C3%B6chstleistungsrechnen%E2%80%9C%20%28SCALEXA%29">
 SCALEXA</a> project <a href="https://www.stroemungsraum.mathematik.tu-dortmund.de/project.html">StroemungsRaum</a>
-</a></li> 
+</li> 
 </ul>
 
 <ul>
