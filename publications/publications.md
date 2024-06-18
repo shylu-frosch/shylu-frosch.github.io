@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Full list of *FROSch*-related publications:
+A list of *FROSch*-related publications:
 
 
 # Published
