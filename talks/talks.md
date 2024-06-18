@@ -6,7 +6,7 @@ permalink: /talks/
 # 2024
 + **Oliver Rheinbach**. *Parallel domain decomposition for multiphysics coupling*,
 High Performance Computing in Science and Engineering (HPCSE 2024), Solan, Czech Republic, May 20-23, 2024
-+ **Oliver Rheinbach/Stefan Köhler**. *Fast and Robust Overlapping Schwarz methods in FEATFLOW*, ECCOMAS 2024, Lissabon, June 3-7, 2024
++ **Oliver Rheinbach/Stephan Köhler**. *Fast and Robust Overlapping Schwarz methods in FEATFLOW*, ECCOMAS 2024, Lissabon, June 3-7, 2024
 + **Oliver Rheinbach**. *Fast and Robust Overlapping Schwarz methods in FEATFLOW*, StroemungsRaum Annual Meeting 2024, Dortmund, May 28, 2024
   
 # 2023
