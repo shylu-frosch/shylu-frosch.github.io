@@ -4,6 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 # 2024
++ **Workshop**. Within the DFG SPP2256 a Workshop <a href="Parallel https://blogs.hrz.tu-freiberg.de/codes-spp2256/parallel-simulation-with-mpi-2024/">Parallel Simulation with Trilinos, FROSch and deal.ii</a> is coming up in Freiberg, Germany, Sept. 2nd to 4th, 2024 
 + **Oliver Rheinbach**. *Parallel domain decomposition for multiphysics coupling*,
 High Performance Computing in Science and Engineering (HPCSE 2024), Solan, Czech Republic, May 20-23, 2024
 + **Oliver Rheinbach/Stephan Köhler**. *Fast and Robust Overlapping Schwarz methods in FEATFLOW*, ECCOMAS 2024, Lissabon, June 3-7, 2024
