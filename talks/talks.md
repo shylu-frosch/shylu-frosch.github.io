@@ -9,10 +9,14 @@ permalink: /talks/
 High Performance Computing in Science and Engineering (HPCSE 2024), Solan, Czech Republic, May 20-23, 2024
 + **Oliver Rheinbach/Stephan Köhler**. *Fast and Robust Overlapping Schwarz methods in FEATFLOW*, ECCOMAS 2024, Lissabon, June 3-7, 2024
 + **Oliver Rheinbach**. *Fast and Robust Overlapping Schwarz methods in FEATFLOW*, StroemungsRaum Annual Meeting 2024, Dortmund, May 28, 2024
++ **Friederike Röver**, *Co-Design of Variational Formulations and Parallel Solvers in Non-Isothermal Thermo-Chemo-Mechanics: Comparison of Minimization and Saddle-Point Formulation and Scalability Studies*. 94th Annual Meeting of the International Association of Applied Mathematics and Mechanics (GAMM), Otto von Guericke Universität Magdeburg, Germany, March 22-28, 2024
   
 # 2023
 + **Friederike Röver**. *Variational Formulations in the Non-Isothermal Thermo-Chemo-Mechanics of Nonlinear Materials: Co-Design of Theoretical Model Development and
 Parallel Solvers — New Aspects in Funding Phase 2*. SPP2256 Annual Meeting, Regensburg, September 27 - 29, 2023
++ **Stefan Prüger**, *Co-Design of variational formulations of a coupled deformation-diffusion problem and the parallel FROSch solver*. COMPLAS 2023, Barcelona, Spain, September 5-7, 2023
++ **Friederike Röver**, *Co-Design of Modelling and Monolithic Overlapping Schwarz Solvers in  Chemo-Mechanics*. ICIAM 2023, Waseda University, Tokyo, Japan, August 20-25, 2023
++ **Friederike Röver**, *Co-Design of Variational Formulations of Chemo-Mechanics and the Parallel FROSch Solver Framework*. Coupled Problems 2023, Chania (Crete), Greece,  June 5-7, 2023
 
 # 2022 
 + **Oliver Rheinbach**. *Teilvorhaben: Hoch skalierbare, algebraische Drei-Level Gebietszerlegungsverfahren zur Lösung von Navier-Stokes-Problemen im StrömungsRaum*, BMBF SCALEXA StroemungsRaum Annual Meeting, Dortmund (virtual), Dec. 9, 2022.
