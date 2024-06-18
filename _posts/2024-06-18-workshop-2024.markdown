@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Workshop on MPI, Trilinos, and FROSch with SPP2256 coming up"
-date: 2024-06-18 12:00:00 +0100
+title: "Workshop on MPI, Trilinos, and FROSch with SPP2256 is coming up in September 2024"
+date: 2024-06-17 12:00:00 +0100
 categories: frosch talks
 inline: true
 inline_url: /talks/
